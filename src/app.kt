@@ -44,6 +44,8 @@ fun main() {
 
     //MergeKSortedLists().run()
 
-    LongestValidParentheses().run()
+    //LongestValidParentheses().run()
+
+    LongestCommonPrefix().run()
 
 }
