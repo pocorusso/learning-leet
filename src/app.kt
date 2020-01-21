@@ -46,6 +46,8 @@ fun main() {
 
     //LongestValidParentheses().run()
 
-    LongestCommonPrefix().run()
+    //LongestCommonPrefix().run()
+
+    RemoveDuplicateFromSortedArray().run()
 
 }
