@@ -1,5 +1,6 @@
 import kotlin.math.abs
 
+//https://leetcode.com/problems/palindrome-number/
 class PalindromeNumber {
     fun run() {
         println(isPalindrome(121))

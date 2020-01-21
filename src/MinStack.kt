@@ -1,5 +1,6 @@
 import java.util.ArrayDeque
 
+//https://leetcode.com/problems/min-stack/
 class MinStack() {
     private var currentMin = Int.MAX_VALUE
     private val stack = ArrayDeque<Node>()

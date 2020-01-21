@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/3sum/
 class ThreeSum {
     fun run() {
         println(threeSum(intArrayOf(-1, 0, 1, 2, -1, -4)))
