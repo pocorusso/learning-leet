@@ -48,6 +48,7 @@ fun main() {
 
     //LongestCommonPrefix().run()
 
-    RemoveDuplicateFromSortedArray().run()
+    //RemoveDuplicateFromSortedArray().run()
 
+    GenerateParentheses().run()
 }
