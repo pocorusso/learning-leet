@@ -1,5 +1,5 @@
 import java.util.ArrayDeque
-
+//https://leetcode.com/problems/generate-parentheses
 class GenerateParentheses {
     fun run() {
         println(generateParenthesis(1))
@@ -36,7 +36,7 @@ class GenerateParentheses {
     fun isValid(s: String): Boolean {
         if (s.isEmpty()) return true
         if (s.length == 1) return false
-        if (s[0] == ')' || s[0] == '}' || s[0] == ']') return false
+        if (s[0] == ')') return false
 
         val stack = ArrayDeque<Char>()
 
