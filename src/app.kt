@@ -50,5 +50,7 @@ fun main() {
 
     //RemoveDuplicateFromSortedArray().run()
 
-    GenerateParentheses().run()
+    //GenerateParentheses().run()
+
+    StrStr().run()
 }
