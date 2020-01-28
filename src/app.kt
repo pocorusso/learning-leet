@@ -52,5 +52,9 @@ fun main() {
 
     //GenerateParentheses().run()
 
-    StrStr().run()
+    //StrStr().run()
+
+    //SearchInRotatedSortedArray().run()
+
+    FindMinimumInSortedArray().run()
 }
