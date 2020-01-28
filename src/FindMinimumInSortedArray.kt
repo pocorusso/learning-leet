@@ -8,10 +8,10 @@ class FindMinimumInSortedArray {
     }
 
     fun findMin(nums: IntArray): Int {
-        return nums[binarySearch(nums, 0, nums.size - 1)]
+        return nums[findMin(nums, 0, nums.size - 1)]
     }
 
-    fun binarySearch(nums: IntArray, start: Int, end: Int): Int {
+    fun findMin(nums: IntArray, start: Int, end: Int): Int {
         if (start > end) return -1
         if (start == end) return if (isInflection(nums, start)) start else -1
 
@@ -21,9 +21,9 @@ class FindMinimumInSortedArray {
         return when {
             isInflection(nums, midIndex) -> midIndex
             mid < nums[end] -> // min must be on the right
-                binarySearch(nums, start, midIndex - 1)
+                findMin(nums, start, midIndex - 1)
             else ->
-                binarySearch(nums, midIndex + 1, end)
+                findMin(nums, midIndex + 1, end)
         }
     }
 
