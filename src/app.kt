@@ -54,7 +54,9 @@ fun main() {
 
     //StrStr().run()
 
-    SearchInRotatedSortedArray().run()
+    //SearchInRotatedSortedArray().run()
 
     //FindMinimumInSortedArray().run()
+
+    FindFirstAndLastPosInSortedArray().run()
 }
