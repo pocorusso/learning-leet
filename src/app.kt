@@ -58,5 +58,7 @@ fun main() {
 
     //FindMinimumInSortedArray().run()
 
-    FindFirstAndLastPosInSortedArray().run()
+    //FindFirstAndLastPosInSortedArray().run()
+
+    CountAndSay().run()
 }
