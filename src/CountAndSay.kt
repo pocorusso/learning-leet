@@ -11,7 +11,7 @@ class CountAndSay {
         println(countAndSay(10))
     }
 
-    // TODO not the fastest solution. :( 
+    // TODO not the fastest solution. :(
     fun countAndSay(n: Int): String {
         if (n == 1) return "1"
 

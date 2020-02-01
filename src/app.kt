@@ -60,5 +60,7 @@ fun main() {
 
     //FindFirstAndLastPosInSortedArray().run()
 
-    CountAndSay().run()
+    //CountAndSay().run()
+
+    Permutations().run()
 }
