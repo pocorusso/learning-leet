@@ -62,5 +62,7 @@ fun main() {
 
     //CountAndSay().run()
 
-    Permutations().run()
+    //Permutations().run()
+
+    StringToInteger().run()
 }
