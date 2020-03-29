@@ -64,5 +64,9 @@ fun main() {
 
     //Permutations().run()
 
-    StringToInteger().run()
+    //StringToInteger().run()
+
+    //MaxSubarray().run()
+
+    GroupAnagrams().run()
 }
