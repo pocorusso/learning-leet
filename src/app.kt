@@ -68,5 +68,7 @@ fun main() {
 
     //MaxSubarray().run()
 
-    GroupAnagrams().run()
+    //GroupAnagrams().run()
+
+    SingleNumber().run()
 }
