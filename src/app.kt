@@ -70,5 +70,7 @@ fun main() {
 
     //GroupAnagrams().run()
 
-    SingleNumber().run()
+    //SingleNumber().run()
+
+    HappyNumber().run()
 }
