@@ -5,7 +5,6 @@ class HappyNumber {
         println(isHappy(191))
     }
 
-
     fun isHappy(n: Int): Boolean {
         var sum = n
         val set = mutableSetOf<Int>()
@@ -24,12 +23,13 @@ class HappyNumber {
     }
 
     private fun getDigits(n: Int): List<Int> {
-        val nStr = n.toString().split("")
-        val retval = mutableListOf<Int>()
-        for (element in nStr) {
-            if (element.isNotEmpty()) retval.add(element.toInt())
+        val digits = mutableListOf<Int>()
+        var num = n
+        while (num > 0) {
+            val digit = num % 10
+            digits.add(digit)
+            num /= 10
         }
-        return retval
+        return digits
     }
-    
 }
