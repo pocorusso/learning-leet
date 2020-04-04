@@ -72,5 +72,7 @@ fun main() {
 
     //SingleNumber().run()
 
-    HappyNumber().run()
+    //HappyNumber().run()
+
+    MoveZeroes().run()
 }
