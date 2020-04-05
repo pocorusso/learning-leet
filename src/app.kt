@@ -74,5 +74,7 @@ fun main() {
 
     //HappyNumber().run()
 
-    MoveZeroes().run()
+    //MoveZeroes().run()
+
+    MaxProfit().run()
 }
