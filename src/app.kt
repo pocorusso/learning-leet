@@ -82,5 +82,7 @@ fun main() {
 
     //CountElements().run()
 
-    MiddleNode().run()
+    //MiddleNode().run()
+
+    BackspaceCompare().run()
 }
