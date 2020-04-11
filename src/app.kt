@@ -84,5 +84,7 @@ fun main() {
 
     //MiddleNode().run()
 
-    BackspaceCompare().run()
+    //BackspaceCompare().run()
+
+    DiameterOfBinaryTree().run()
 }
