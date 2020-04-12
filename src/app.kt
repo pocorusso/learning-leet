@@ -86,5 +86,7 @@ fun main() {
 
     //BackspaceCompare().run()
 
-    DiameterOfBinaryTree().run()
+    //DiameterOfBinaryTree().run()
+
+    LastStoneWeight().run()
 }
