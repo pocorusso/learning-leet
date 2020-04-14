@@ -88,5 +88,7 @@ fun main() {
 
     //LastStoneWeight().run()
 
-    ContiguousArray().run()
+    //ContiguousArray().run()
+
+    PerformingStringShifts().run()
 }
