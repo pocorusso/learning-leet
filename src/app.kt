@@ -90,5 +90,7 @@ fun main() {
 
     //ContiguousArray().run()
 
-    PerformingStringShifts().run()
+    //PerformingStringShifts().run()
+
+    ProductExceptSelf().run()
 }
