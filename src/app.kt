@@ -94,5 +94,7 @@ fun main() {
 
     //ProductExceptSelf().run()
 
-    ValidParenthesisString().run()
+    //ValidParenthesisString().run()
+
+    BstFromPreorder().run()
 }
