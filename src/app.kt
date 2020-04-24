@@ -98,5 +98,7 @@ fun main() {
 
     //BstFromPreorder().run()
 
-    SubarraySum().run()
+    //SubarraySum().run()
+
+    LRUCacheTest().run()
 }
