@@ -100,5 +100,7 @@ fun main() {
 
     //SubarraySum().run()
 
-    LRUCacheTest().run()
+    //LRUCacheTest().run()
+
+    JumpGame().run()
 }
