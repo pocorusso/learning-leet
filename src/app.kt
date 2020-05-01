@@ -104,5 +104,15 @@ fun main() {
 
     //JumpGame().run()
 
-    LongestCommonSubsequence().run()
+    //LongestCommonSubsequence().run()
+
+    //MaximumSquare().run()
+
+    //FirstUniqueTest().run()
+
+   // BinaryTreeMaxPathSum().run()
+
+    //BinaryTreeValidSequence().run()
+
+    FirstBadVersion().run()
 }
