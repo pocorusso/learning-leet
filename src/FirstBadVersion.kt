@@ -19,6 +19,6 @@ class FirstBadVersion {
         }
         return lastBad
     }
-s
+
     fun isBadVersion(version: Int): Boolean = version >= 4
 }
