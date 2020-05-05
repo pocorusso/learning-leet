@@ -61,5 +61,6 @@ fun main() {
     // BinaryTreeMaxPathSum().run()
     //BinaryTreeValidSequence().run()
     //FirstBadVersion().run()
-    RansomeNote().run()
+    //RansomeNote().run()
+    FirstUniqueChar().run()
 }
