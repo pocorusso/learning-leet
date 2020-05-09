@@ -62,5 +62,9 @@ fun main() {
     //BinaryTreeValidSequence().run()
     //FirstBadVersion().run()
     //RansomeNote().run()
-    FirstUniqueChar().run()
+    //FirstUniqueChar().run()
+    //MajorityElement().run()
+    //CousinInBinaryTree().run()
+    //CheckIfStraightLine().run()
+    isPerfectSquare().run()
 }
