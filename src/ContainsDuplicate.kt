@@ -4,4 +4,4 @@ class ContainsDuplicate {
         nums.forEach { if(set.contains(it)) return true else set.add(it) }
         return false
     }
-}
+}   

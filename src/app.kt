@@ -66,5 +66,7 @@ fun main() {
     //MajorityElement().run()
     //CousinInBinaryTree().run()
     //CheckIfStraightLine().run()
-    isPerfectSquare().run()
+    //isPerfectSquare().run()
+    //romanToInt().run()
+    BrokenCalculator().run()
 }
