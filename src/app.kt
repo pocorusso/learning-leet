@@ -69,5 +69,7 @@ fun main() {
     //isPerfectSquare().run()
     //romanToInt().run()
     //BrokenCalculator().run()
-    FindLongestWord().run()
+    //FindLongestWord().run()
+    //BinarySearch().run()
+    SearchInsertPosition().run()
 }
