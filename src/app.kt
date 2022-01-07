@@ -71,5 +71,7 @@ fun main() {
     //BrokenCalculator().run()
     //FindLongestWord().run()
     //BinarySearch().run()
-    SearchInsertPosition().run()
+    //SearchInsertPosition().run()
+    //SortedSquares().run()
+    ReverseString().run()
 }
